@@ -1,3 +1,7 @@
+---
+inclusion: auto
+---
+
 # Skill: AI-Driven Dev Architect (SOP v2.0)
 
 # 第一阶段：需求对齐与蓝图 (Alignment & Blueprint)
