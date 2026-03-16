@@ -1,5 +1,5 @@
 ---
-name: AI-Driven Dev Architect
+name: AI-Driven-Dev-Architect
 description: SOP v2.0 - Five-phase dev workflow for alignment, coding, refactoring, code review, and release
 ---
 
