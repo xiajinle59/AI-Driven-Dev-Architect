@@ -1,7 +1,6 @@
 ---
 name: AI-Driven Dev Architect
-description: "SOP v2.0 - 五阶段开发流程：需求对齐、开发测试、安全重构、代码审查、提交发布"
-inclusion: auto
+description: SOP v2.0 - Five-phase dev workflow for alignment, coding, refactoring, code review, and release
 ---
 
 
