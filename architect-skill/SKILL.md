@@ -1,6 +1,6 @@
 ---
 name: AI-Driven Dev Architect
-description: SOP v2.0 - 五阶段开发流程：需求对齐、开发测试、安全重构、代码审查、提交发布
+description: "SOP v2.0 - 五阶段开发流程：需求对齐、开发测试、安全重构、代码审查、提交发布"
 inclusion: auto
 ---
 
